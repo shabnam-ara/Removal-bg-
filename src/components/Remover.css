@@ -1,5 +1,5 @@
 .container{
-    background-color: #F3E5F5;
+    background-color: #d4e7fa;
     width: 50vw;
     height: 100vh;
 }
@@ -28,7 +28,7 @@ input{
 }
 
 .btn_upload{
-    background-color: #9c27b0;
+    background-color: #378ac9;
     color: white;
 }
 

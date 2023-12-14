@@ -1,5 +1,5 @@
 import "./Logo.css"
-import logo from "../images/logo.svg"
+import logo from "../images/logo.gif"
 const Logo = () => {
   return (
     <div className="logo_container">
